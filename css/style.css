@@ -1,0 +1,19 @@
+h1 {
+    color: #ff0066;
+}
+
+.green-text{
+    color: rgba(0, 102, 0);
+}
+
+#width-300 {
+    width: 300px;
+}
+
+p{
+    border: 1px solid hsla(180, 100%, 30%, 50%);
+}
+.goat{
+    width: 1024px;
+    height: 683px;
+}
