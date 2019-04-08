@@ -2,6 +2,10 @@ h1 {
     color: #ff0066;
 }
 
+h2{
+    color: rgb(93, 123, 5);
+}
+
 .green-text{
     color: rgba(0, 102, 0);
 }
@@ -13,7 +17,18 @@ h1 {
 p{
     border: 1px solid hsla(180, 100%, 30%, 50%);
 }
-.goat{
-    width: 1024px;
-    height: 683px;
+
+.width-300{
+    width: 300px;
+}
+
+.width-500{
+    width: 500px;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    padding-bottom: 10px;
 }
