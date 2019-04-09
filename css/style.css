@@ -1,9 +1,15 @@
 h1 {
-    color: #ff0066;
+    color: rgb(93, 123, 5);
+    font-family: "farmhand-sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
 }
 
 h2{
     color: rgb(93, 123, 5);
+    font-family: "farmhand-sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
 }
 
 .green-text{
@@ -16,10 +22,14 @@ h2{
 
 p{
     border: 1px solid hsla(180, 100%, 30%, 50%);
+    font-family: "interstate", sans-serif;
+    font-style: normal;
+    font-weight: 400;
 }
 
-.width-300{
+.profile{
     width: 300px;
+    margin: 0 auto;
 }
 
 .width-500{
@@ -31,4 +41,20 @@ ul{
 }
 li{
     padding-bottom: 10px;
+    font-family: "interstate", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.list-item{
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+    border: dotted 1px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+.center{
+    text-align: center;
 }
