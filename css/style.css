@@ -27,6 +27,7 @@ p{
 ul{
     list-style-type: none;
 }
+
 li{
     padding-bottom: 10px;
     font-family: "interstate", sans-serif;
@@ -62,6 +63,5 @@ li{
 .width-500{
     width: 500px;
 }
-
 
 /* Add comments to made organizing easier */
